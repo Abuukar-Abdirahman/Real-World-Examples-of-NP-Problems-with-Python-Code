@@ -23,10 +23,3 @@ This repository contains real-world examples of classic NP (nondeterministic pol
 - 📍 Used in logistics, finance, scheduling, and resource management
 
 ---
-
-## 🛠️ How to Use
-
-Clone this repository and run any `.py` file using Python 3:
-
-```bash
-python tsp_code.py
